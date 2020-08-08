@@ -1,0 +1,4 @@
+INSTRUÇÕES
+. Dentro do arquivo ZIP, você terá as pastas estruturadas js, css, img, e o arquivo index. Nós deixamos a biblioteca Bootstrap vinculada, nossas lojas utilizam a biblioteca, porém, fica a seu critério utilizar ou não.
+
+. O Objetivo é tentar reproduzir o modelo da imagem no HTML.
